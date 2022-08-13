@@ -1,0 +1,25 @@
+1. Crear un repositorio local 
+Git init
+2.git config user.name
+configura el nombre de usuario que se suben los commits
+3. git config user.email
+configura el email 
+4.git clone
+clonamos el repositorio remoto
+5.git add *nombre del archivo*
+añadimos un archivo especifico para el commit
+6. git add .
+añadimos todos los archivos para el commit
+7. git commit 'm [mensaje del commit]
+hacemos un commit
+8. git push origin *nombre de la rama*
+subimos el repositorio local al remoto
+9.git remote add origin *url del repositorio remoto*
+agregamos el repositorio 
+10. git remote -v
+muestra la lista del repositorio
+11.git branch 
+crea un branch
+12. git status
+lista un estado actual del repositorio con lista de archibos modificados o agregados
+13.
