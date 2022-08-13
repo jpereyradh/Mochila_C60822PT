@@ -1,0 +1,11 @@
+a. Linus Torvalds creó el proyecto de código abierto llamado Git. Se ha 
+ideado para posibilidad la ramificación y el etiquetado como procesos de 
+primera importancia y las operaciones que afectan a las ramas y las 
+etiquetas.
+
+b. Actualmente Github pertenece a Microsoft, ya que es un paso más en la 
+inclinación de la empresa para enfocarse todo lo posible al desarrollo. El 
+núcleo de la empresa lo forman los desarrolladores.
+
+c. Sí, se puede trabajar con Github desde la aplicación Github Desktop, 
+Tower y Fork.
