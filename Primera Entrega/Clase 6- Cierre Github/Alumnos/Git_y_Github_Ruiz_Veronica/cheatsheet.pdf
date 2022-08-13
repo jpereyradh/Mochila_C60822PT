@@ -1,0 +1,13 @@
+Git Init nos permite crear un repositorio local
+Git Add sirve para agregar los archivos que tenemos modificados a nuestro git para proceder a hacer un commit
+Git commit -m es para poder crear nuestros commits con comentarios de que hicimos 
+Con el comando Git Log vamos a poder ver un resumen de todos los commits hechos en el proyecto 
+Para eliminar una rama utilizamos git branch -d y el nombre de la rama
+Git Checkout -b es para crear una rama y pararnos en ella al mismo tiempo 
+Git reset con el número del commit hace que volvamos al commit que escogimos
+Git merge se usa para juntar la información de una branch y el main asi se actualiza, debo estar parada en mi main cuando vaya a hacer el merge con una branch 
+Git clone sirve para clonar un repositorio en nuestra computadora
+Gti Pull sirve para actualizar los documentos que tenemos en este momento desde el servidor de la nube 
+Git branch sirve para crear una rama independiente para nosotros trabajar en el repositorio sin hacer cambios en la main
+Git remote es para linkear dos repositorios el local y la nube 
+Git Push nos sirve para poder subir nuestros archivos a la nube 
