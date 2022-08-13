@@ -1,0 +1,5 @@
+1) Linus Torvalds fue el creador (tmb hizo linux, alto capo), lo creo para
+poder trabajar de forma colaborativa con otros desarrolladores de forma eficiente
+2)Microsoft compro GitHub.
+3) Git hub puede ser utilizado en la web hasta cierto punto, pero las mayorias
+de las cosas se hacen en la terminal. 
