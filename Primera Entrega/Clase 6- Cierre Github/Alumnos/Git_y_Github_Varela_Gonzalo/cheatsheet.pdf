@@ -1,0 +1,18 @@
+- ls Sirve para listar los archivos en el directorio o carpeta
+- ls -a Lista los archivos ocultos + los archivos normales
+- git init se crea un repositorio local
+- git remote url Vincula un repositorio remoto de Github
+- git push origin branch Se suben los cambios al repositorio
+- git status Muestra el status del repositorio
+- git log --oneline Ver los commits sin la parte gráfica
+- git clone Clonar un repositorio
+- pwd Muestra la carpeta en la que se está trabajando actualmente
+- mkdir Crea una nueva carpeta o directorio
+- touch Crea un nuevo archivo
+- git branch Muestra las ramas de mi repositorio
+- git branch name Crea una rama llamada name
+- git branch -d name Elimina la rama llamada name
+- git brand -D name Fuerza la eliminación e la rama name.
+- git checkout name Me muevo a la rama llamada name
+- git push origin name Para enviar los cambios a nuestro repositorio.
+- git pull origin name Para actualizar los cambios.
