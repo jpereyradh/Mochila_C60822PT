@@ -1,0 +1,11 @@
+Si, se pueden crear las carpetas del punto 2 con un solo comando. es utilizando: 
+  mkdir Infantiles Accion Terror Comedia Romanticas
+
+Si, se pueden crear los archivos del punto 3 utilizando un solo comando: 
+  touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+
+El comando para crear "prueba" dentro de la carpeta "Romanticas" parado desde DH sería:
+  mkdir ./"DH"/Peliculas/Romanticas/Prueba
+
+El comando para crear "prueba2" dentro de la carpeta acción parados desde "Romanticas" sería:
+  mkdir C:\Users\Usuario\Desktop\DH\Introd Informatica DH\Clase 3\Peliculas\Accion\Prueba2
