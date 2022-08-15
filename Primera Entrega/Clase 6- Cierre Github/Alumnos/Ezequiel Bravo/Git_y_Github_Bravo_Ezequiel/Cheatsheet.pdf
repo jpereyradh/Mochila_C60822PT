@@ -1,0 +1,22 @@
+git init: se crea un repositorio local.
+git remote <url>: Vincula un repositorio remoto 
+git add: sube los cambios del working area al staging area
+git commit: se confirman los cambios 
+git push: Se suben los cambios al repositorio
+git status: Te muestra el status del repositorio en el que trabajas.
+git config user.name/mail: sirve para configurar el usuario  o el email vinculado al repositorio
+git -v: sirve para ver la version actual de git con la que trabajas.
+git log: Sirve para ver los commits realizados.
+git log -p: Sirve para ver los commits y los cambios realizados en dichos commits.
+git branch <branch>: Crea una nueva rama llamada <branch>.
+git branch -d <branch>: Elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios
+que aún no se han fusionado con la rama Main.
+git branch -D <branch>: Fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.
+git log --oneline: Sirve para ver los commits sin la parte grafica.
+git restore: restaura los cambios hechos a el ultimo commit guardado.
+git checkout: Sirve para moverse entre main y las branches.
+git checkout -b <branch>: sirve para crear una branch y moverse a la misma
+git clone: te permite clonar un respositorio local.
+git pull: te permite traer los archivos subidos hacia tu local
+git merge: permite fusionar distintas branches entre si
+
