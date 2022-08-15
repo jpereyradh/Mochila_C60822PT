@@ -1,0 +1,4 @@
+a.Lo creo Linus Torvalds en el 2004 para su sistema operativo Linux, ya que el sistema que usaba
+con anterioridad paso a ser pago.
+b.Con el fin de ampliar sus horizontes en el desarrollo, en 2018, Microsoft compro Github.
+c.Si, se puede.
