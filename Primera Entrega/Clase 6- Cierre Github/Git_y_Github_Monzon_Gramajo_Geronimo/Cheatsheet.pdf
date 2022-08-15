@@ -1,0 +1,46 @@
+-Clonar un repositorio existente
+git clone ssh://usuario@domain.com/repo.git
+-Crear un nuevo repositorio local
+git init
+-ls 
+Lista archivos en el directorio o carpeta
+-ls-a
+Lista todos los archivos, incluyendo los archivos ocultos
+-ls -R
+Muestra las carpetas y los archivos contenidos en ellos de manera recursiva
+-pwd
+Muestra la carpeta en la que se está trabajando actualmente
+-mkdir
+Crea una nueva directorio o carpeta
+-touch
+Crea un nuevo archivo
+-rm 
+Elimina un archivo 
+-rm -r
+Elimina una carpeta y su contenido
+-mv 
+Renombra archivos,Renombra carpetas, Mueve contenido
+-cp
+Copia un archivo o carpeta
+-clear
+Limpia la pantalla de la terminal
+-cd 
+permite la navegación entre carpetas
+-git config user.name/user.email
+Sirve para configurar el usuario e email de la cuenta de GitHub
+-git add
+Sirve para agregar archivos
+-git status
+Seguimiento del estado de los archivos
+-git commit
+Comitea los cambios hechos
+-Git branch
+Crea una rama
+-Git checkout
+Sirve cambiarte de una rama a otra
+-Git push
+Envía tus commits al repositorio remoto.
+-Git pull
+se utiliza para recibir actualizaciones del repositorio remoto
+-Git merge
+sirve para fusionar ramas

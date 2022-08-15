@@ -1,0 +1,6 @@
+a_ Lo desarrolló originalmente Linus Torvalds, Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT. Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena. Hay algunos proyectos de mucha relevancia que ya usan Git, en particular, el grupo de programación delúcleo Linux.
+
+b_Actualmente GitHub le pertenece a Miscrosft y La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más
+
+c_Se pueden subir repositorios a GitHub sin la necesidad de la terminal, utilizando la aplicación de GitHUb.
+
