@@ -1,0 +1,8 @@
+1)  Amd Ryzen 5 3600 es para jugar al Cyberunk 2077 ya que tiene gráficos 
+    integrado de una generación más reciente.
+2)  Amd a8 9600 es para poder hacer ediciones de video ya que el procesador 
+    es una APU capaz de procesar videos pero no tan buena como para jugar 
+    al Cyberunk 2077.
+3)  Intel i3 3230 es para usar Office 2019 ya que no es un procesador muy 
+    bueno y se podria usar para trabajar en archivos de texto creados en 
+    Office.
