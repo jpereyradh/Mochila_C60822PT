@@ -1,0 +1,21 @@
+git init = inicializar un repositorio.
+git clone = clonar un repositorio remoto.
+git branch = listar las ramas.
+git branch <nombre de la rama> = crear una rama.
+git branch -d <nombre de la rama> = eliminar una rama.
+git checkout <nombre de la rama> = cambiar a una rama.
+git add . = adiciona los cambios del working al staging.
+git commit -m "mensaje" = confirma los cambios y lo envía con un mensaje.
+git push origin <rama> = se utiliza para subir los cambios de un repositorio local a uno remoto.
+git pull origin <rama> = baja los cambios de un repositorio remoto a uno local.
+git log = muestra el historial de los commits.
+git merge <rama> from <rama> = mezcla los cambios de una rama a la otra.
+git config user.name "usuario" = configura el usuario de GitHub.
+git config user.name = comprueba el nombre de usuario configurado.
+git config user.email "correo" = configura el correo electrónico de GitHub.
+git config user.email = comprueba el correo electrónico configurado.
+git rm --cached = sacar un archivo del stage.
+git status = verifica el estado de los archivos.
+git remote add origin URL = conecta un repositorio local con uno remoto.
+git branch -D <rama> = forza la eliminación de la rama.
+
