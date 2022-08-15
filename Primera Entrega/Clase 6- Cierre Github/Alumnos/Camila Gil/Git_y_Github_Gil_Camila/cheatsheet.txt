@@ -1,0 +1,9 @@
+git config user.name "nombre-usuario": setear nombre de usuario
+git config user.email "email": setear email
+git 
+git clone url: clonar un repositorio existente
+git init: crear un nuevo repositorio local
+git status: estado del commit
+git add .: agregar los elementos al siguiente commit (staging)
+git commit -m "mensaje": commitear los elementos que están en staging
+git push origin main/branch: subir archivos
