@@ -1,0 +1,13 @@
+Algunos Comandos:
+git log: muestra los commit 
+git branch -m: crear rama 
+git add: archivos que queremos agregar 
+git init: repositorio local 
+git status: como estan las cosas en el repositorio 
+git add . : agregar todos los archivos presentes 
+git clone: realiza una copia idéntica de la última versión de un proyecto en un repositorio y la guarda en tu ordenador.
+Git branch: Podemos usar el comando git branch para crearlas, listarlas y eliminarlas.
+Git checkout: para cambiarte de una rama a otra. También lo podemos usar para chequear archivos y commits.
+Git commit: establecer un punto de control en el proceso de desarrollo al cual puedes volver más tarde si es necesario.
+Git push: enviar tus cambios al servidor remoto. Git push envía tus commits al repositorio remoto.
+Git pull: recogeremos actualizaciones del repositorio remoto (git fetch) e inmediatamente aplicamos estos últimos cambios en local (git merge).
