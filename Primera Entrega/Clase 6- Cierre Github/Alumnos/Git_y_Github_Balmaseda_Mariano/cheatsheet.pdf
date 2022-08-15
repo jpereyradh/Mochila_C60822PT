@@ -1,0 +1,16 @@
+cd moverse entre carpetas y archivos.
+touch crear un archivo
+mkdir crear carpeta
+pwd ubicacion de donde estamos
+ls listar archivos de carpeta
+ls -r listar todos los archivos, hasta los ocultos
+rm eliminar archivo
+mv mover o cambiar nombre 
+git version ver version de git
+git init iniciar un repositorio local
+git add . agregar todos los archivos
+git add + nombre archivo agregar ese archivo
+git commit -m +" nombre del commit" hacer un commit
+git push subir el commit del repositorio local al remoto
+git pull traer archivos del repositorio remoto al local
+git clone + link github clonar un repositorio existente
