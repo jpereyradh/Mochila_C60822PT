@@ -1,0 +1,7 @@
+a. El creador de Git es Linus Torvalds, creador tambien del kernel del sistema linux.
+    Lo hizo pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran numero de archivos en el codigo
+
+b. Le pertenece a microsoft ya que la compro en 2018 por 7500 millones de dolares
+
+c. Si, github cuenta con una interfaz grafica llamada Github Desktop
+
