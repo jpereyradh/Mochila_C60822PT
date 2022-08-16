@@ -1,0 +1,4 @@
+git clone (url) -> Clonar un repositorio existente
+git checkout -b (nombre nueva rama) -> Crear y cambiar a nueva rama
+git pull origin (nombre de la rama) -> Descargar del repositorio online
+git push origin (nombre de la rama) -> Subir del repositorio local al online
