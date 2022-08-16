@@ -1,0 +1,16 @@
+1) Nos situamos en la carpeta que vamos a iniciar el repositorio local.
+2) Abrimos la terminal y situados desde ahí, ejecutamos el comando git.init (De esta manera creamos el repositorio local.
+
+3) Luego de haber realizado nuestros cambios o creado archivos, hacemos git add . para enviar los archivos al stagin. (Si hacemos git add " " nombre de archivo entre comillas sólo subimos al stagin el archivo nombrado, con el punto se suben todos).
+
+4) Creamos el commit con el comando git commit - m " "  (entre comillas va el nombre del commit, que sería un breve resumen para ubicarnos cronológicamente en el tiempo de haber creado dicho commit.
+
+5) Luego de creado el commit, con el comando git push origin main estaremos subiendo todo a la main que previamente debemos haber creado en github y vinculado a través del comando git remote add origin y la url de nuestro repositorio remoto.
+
+
+
+Podemos crear también diversas ramas con el comando git checkout -b y el nombre de la rama.
+
+Comandos que me acuerde ahora y no vinculé con el texto anterior:
+-git clone "url repo remoto". Nos clona en nuestro repositorio local, el remoto.
+-git remote -v nos sirve para saber a que repositorio remoto estamos conectados desde la ubicación actual.
