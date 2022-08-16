@@ -1,0 +1,18 @@
+Comandos git: Cheatsheet
+
+git init / inicializar un nuevo repositorio
+git config --global user.name "dasdo" / configurar el usuario del git de forma global
+git config --global user.email dasdo1@gmail.com / / configurar el email del usuario del git en forma global
+git clone <url> / clonar un repositorio existente
+git add . / añadir todos los archivos al staging area
+git commit -m "Texto que identifique por que se hizo el commit" / añadir  archivos al repositorio local
+git push origin master / cargar los archivos al repositorio remoto
+git add <archivo> / añadir un archivo especifico al staging area
+git log / puedes ver los commit que has realizado
+git reset <archivo> / reseteas el archivo al estado del commit anterior
+git branch <nameBranch> / para crear una rama
+git status / saber el estado del proyecto, que archivos estan pendientes de commit y de push
+git checkout <nameBranch> / puedes cambiarte de una ramma a otra
+git checkout -b newlocalbranchname origin/branch-name / puedes cambiarte a esa rama y a la vez crear esa rama al mismo tiempo
+git pull origin <nameBranch> / actualizas los archivos de tu repositorio local con los que hay en el remoto
+git merge <nameBranch> / unificas la rama en la que estas trabajando con la rama main
