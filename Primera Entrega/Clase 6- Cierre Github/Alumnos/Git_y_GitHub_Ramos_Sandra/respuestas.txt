@@ -1,0 +1,15 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Linus Torvalds, el mismísimo creador de Linux, desarrolló e implementó la primera versión de Git
+para dar a sus programadores del kernel una alternativa a BitKeeper. Linus no sólo hizo el diseño
+original sino que fue vital para promover el proyecto con su estilo único. 
+
+b. ¿A quién pertenece actualmente Github y por qué?
+En 2018 (4 de junio de 2018 - 26 de octubre 2018), Microsoft anunció y compró respectivamente 
+la compañía por un importe de más de 7000 millones de dólares. Con el control de GitHub, Microsoft se hace también con la
+ comunidad de desarrollo más nutrida del planeta.
+
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Se puede utilizar GitHub Desktop para crear y administrar un repositorio de Git sin utilizar 
+la línea de comandos. Usando una interfaz visual en lugar de comandos de texto en la línea de comandos para simplificar el flujo 
+de trabajo de GitHub. 
