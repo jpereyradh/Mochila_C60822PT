@@ -1,0 +1,20 @@
+git init: repositorio local
+git add .: agrega todos los archivos
+git add archivo: agrega archivo especifico
+git status: estado de los archivos
+git commit -m "": haces un commit
+git config user.name: config nombre usuario
+git config user.email: config email
+git branch + nombre rama: creas ramas 
+git checkout: moverse entre ramas
+git push origin nombre.rama: cargar del repositorio local al remoto 
+git pull origin nombre.rama: trae los archivos del repositorio remoto al local
+git clone + https://...etc: Clonar un repositorio existente
+mkdir: crear carpeta
+touch: crear archivo
+mv: mover
+rm: eliminar
+pwd: donde estoy parado
+cd: moverse entre carpetass
+ls: listar.
+
