@@ -1,0 +1,13 @@
+1. Git clone <es un comando para descargarte el código fuente existente desde un repositorio remoto>
+2. Git branch <nombre-de-la-rama>.Usando ramas, varios desarrolladores pueden trabajar en paralelo en el mismo proyecto simultáneamente. Podemos usar el comando git branch para crearlas, listarlas y eliminarlas.
+3. Git push <nombre-remoto> <nombre-rama>.Este comando se utiliza para enviar (push) la nueva rama al repositorio remoto
+4. Git branch --list . Para visualizar todas las ramas existentes en la zona de trabajo.
+5. Git branch -d <nombre-de-la-rama>. Utilizada para borrar una rama existente.
+6. Git checkout <nombre rama> Para trabajar en una rama, primero tienes que cambiarte a ella. Usado asimismo principalmente para cambiarte de una rama a otra.
+7. Git status. El comando de git status brinda la información necesaria sobre la rama actual.
+8. Gt add ""  y add . En el primer caso para agregar un archivo, en el segundo para aregar todos
+9. Git commit -m "". Para guardar lo realizado hasta ese momento y Tambiénpermite escribir un mensaje corto para explicar qué hemos desarrollado o modificado en el código fuente.
+10.Git push . Después de haber confirmado tus cambios, el siguiente paso que quieres dar es enviar tus cambios al servidor remoto. Git push envía tus commits al repositorio remoto.
+11.Git pull. El comando git pull se utiliza para recibir actualizaciones del repositorio remoto.
+12.Git merge. utilizada para fusionar la rama con su rama padre (dev o master). Esto se hace con el comando git merge
+13.
