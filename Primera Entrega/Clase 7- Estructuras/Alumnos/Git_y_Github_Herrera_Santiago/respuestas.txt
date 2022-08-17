@@ -1,0 +1,7 @@
+5 lines (3 sloc)  439 Bytes
+
+El procesador AMD Ryzen 5 3600 le corresponde a Matilda ya que va a necesitar un dispositivo de video para ejecutar este juego ( este procesador es la mejor opcion ante un posible cuello de botella).
+
+El procesador AMD a8 9600 es para el hermano mayor ya que no necesita un procesador demasiado rapido.
+
+El procesador intel i3 3230 corresponde a Marcelo porque no necesita un procesador mas potente que este para la tarea que quiere hacer.
