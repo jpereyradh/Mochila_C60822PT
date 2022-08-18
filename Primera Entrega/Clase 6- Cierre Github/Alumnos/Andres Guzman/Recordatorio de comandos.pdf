@@ -1,0 +1,20 @@
+-git init ⇒ Este comando inicializa un repositorio local en la carpeta del proyecto.
+-git config user.name "nombreDeUsuario" ⇒ en donde, entre comillas, debemos escribir nuestro nombre de usuario tal cual aparezca en GitHub.
+-git config user.name  Para verificar ⇒ que ingresamos bien nuestro email, correr el comando
+
+Para configurar nuestra identidad de manera global y no tener que estar aclarando
+siempre nuestro email y nombre de usuario, agregar la palabra --global .
+⇒ git config --global user.name "nombreDeUsuario" .
+⇒ git config --global user.email "nombre@email.com"
+
+-git remote add origin ⇒ Pegar la URL después de la palabra origin (dejando un espacio de por medio) y presionar Enter.
+-git remote -v ⇒ Para verificar que el paso anterior se ejecutó correctamente, correr el comando
+-git status ⇒ para ver el estado de nuestros archivos (aquellos en rojo son los archivos que aún no están en seguimiento).
+-git add . . ⇒ para indicar que queremos agregar todos los archivos al repositorio.
+-git add archivo.extension ⇒ Para agregar un solo archivo.
+-git commit -m "mensaje" ⇒ Para confirmar que queremos subir de manera definitiva aquellos archivos que agregamos, correr el comando.
+-git push origin main ⇒ Para enviar los archivos al repositorio remoto correr el comando.
+-git pull origin master ⇒ Para poder actualizar los archivos de nuestro repositorio local con respecto a los que están en el repositorio remoto.
+-git clone ⇒ Clonar repositorio en el PC, se usa para bajar los archivos por primera vez.
+-git branch nombre_de_la_rama ⇒ Crea una nueva rama llamada nombre_de_la_rama.
+-git checkout  nombre_de_la_rama ⇒ Cambias a la rama nombre_de_la_rama.
