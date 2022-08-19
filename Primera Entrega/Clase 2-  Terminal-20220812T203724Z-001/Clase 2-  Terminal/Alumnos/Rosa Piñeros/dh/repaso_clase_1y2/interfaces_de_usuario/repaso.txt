@@ -1,4 +1,0 @@
-Interfaces de usuario:
--cli: como la terminal por ejemplo, son interfaces alfanumericas
--GUI: utilizando un conjunto de imágenes y objetos gráficos para representar la información y acciones disponibles en la interfaz.
--NUI: se va a las funciones nativas de los dispositivos que estemos usando, como el habla, el tactil, etc
