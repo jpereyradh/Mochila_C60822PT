@@ -1,4 +1,0 @@
-Servidores: hay 3 tipos de servidores que podemos usar.
--web: almacena contenido que se distribuye a traves de la red, como: imagenes, videos
--bases de datos: da almacenamiento a bases de datos o computadoras, dando servicios bajo el modelo cliente-servidor.
--archivos: almacena varios formatos de archivos que se distribuyen a traves de la red.
