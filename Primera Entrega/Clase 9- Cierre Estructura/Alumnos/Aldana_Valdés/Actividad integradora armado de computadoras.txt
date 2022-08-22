@@ -1,0 +1,66 @@
+Actividad integradora armado de computadoras
+
+Gama baja - Intel
+Procesador: Core i3 7100
+Placa madre: H110M
+Memoria principal: 16 GB RAM DDR3
+Memoria secundaria:  DISCO RIGIDO 512 GB
+
+Gama baja - AMD
+Procesador: Ryzen 3 2200g
+Placa madre: Mother Asus A320M-K
+Memoria ram: Ram DDR4 8GB 2400MHz 
+Memoria secundaria: Disco Rígido 1TB
+
+Gama baja (libre criterio del estudiante)
+Procesador: Procesador Intel Celeron G5905 3.5 Ghz
+Placa madre: Motherboard 1200 10°Gen - Msi H410M-B
+Memoria principal: Memoria Ram DDR4 - 4Gb 2666 Mhz Adata
+Memoria secundaria: Disco Solido Ssd - 120Gb para ensamblado
+
+
+Gama media - Intel
+Procesador: Intel Core i5 - 10400f
+Placa madre: ASUS TUF Gaming B460-PLUS
+Memoria principal: RAM Fury Beast DDR4  16GB 2666Mhz
+Memoria secundaria: Disco sólido interno Kingston 480G
+GPU: GeForce GT 1030 2GD4 LP OC
+
+
+Gama media - AMD
+Procesador: AM4 Ryzen 5 3600
+Placa madre: A320M Asrock
+Memoria principal: Ram DDR4 16GB 3200MHz
+Memoria secundaria: Disco sólido interno Kingston 480G
+GPU: AMD Radeon RX 5500XT 4GB
+
+Gama media (Esta computadora debe ser armada a libre criterio del estudiante)
+Procesador: Amd Ryzen 5 5600x
+Placa madre: Asus TUF Gaming X570-Plus
+Memoria principal:  Corsair Vengeance RGB Pro 16GB 3600MHz
+Memoria secundaria: Disco sólido interno Kingston NV1 500G
+GPU: Radeon RX570 4GB
+
+
+Gama alta - Intel
+Procesador: Core i7-10700
+Placa Madre: Motherboard 1200 11°Gen - Msi Z590 GAMING CARBON WIFI
+Memoria principal: Memoria Ram DDR4 - 16Gb 2x8 3600 Mhz Corsair Vengance Rgb Pro Blanco
+Memoria secundaria: Disco Solido Ssd - 960Gb / 1Tb
+GPU: GeForce RTX 3090 24Gb Asus Rog Strix Gaming Oc Blanco
+
+
+Gama alta - AMD
+Procesador Amd Ryzen 7 3800xt
+Placa Madre: ASUS ROG Strix X570-E
+Memoria principal: Memoria Ram DDR4 - 16Gb 2x8 3600 Mhz Corsair Vengance Rgb Pro Blanco
+Memoria secundaria: Disco Solido Ssd - 960Gb / 1Tb
+GPU: Gigabyte RTX 3080
+
+
+Gama alta (Esta computadora debe ser armada a libre criterio del estudiante)
+Procesador: Intel Core i9-9900K
+Placa Madre: ASUS ROG Strix Z390-E
+Memoria principal: Memoria Ram Corsair Vengeance Lpx Kit 32gb 2x16gb 4000mhz
+Memoria secundaria: Disco Ssd Corsair 1tb Mp600 Pro Lpx Pcie Gen4 Nvm2
+GPU: Nvidia RTX 3090

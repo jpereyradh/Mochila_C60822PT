@@ -1,0 +1,9 @@
+•	Si 
+$ mkdir Accion Comedia Infantiles Romantica Terror
+
+•	Si
+$ touch "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+
+•	$ mkdir ./Peliculas/Romantica/Prueba
+
+•	$ mkdir ../accion/Prueba2

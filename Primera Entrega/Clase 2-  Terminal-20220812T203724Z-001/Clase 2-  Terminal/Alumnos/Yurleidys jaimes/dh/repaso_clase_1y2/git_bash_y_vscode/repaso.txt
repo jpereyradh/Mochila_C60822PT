@@ -1,0 +1,1 @@
+git bash, aplicaciones que ofrecen la realizacion de comandos de git. bash se pueden utilizar desde vscode. 
