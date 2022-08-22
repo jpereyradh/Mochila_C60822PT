@@ -1,0 +1,5 @@
+1) se subió al repo
+2) No porque antes debio usar el comando 'git add' para trakearlo
+3) No porque enrealidad se trakearon todos los archivos al usar git add .
+4) git restore restablece el archivo a su contenido anterior.
+5) nothing to commit, working tree clean
