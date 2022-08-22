@@ -1,0 +1,3 @@
+Git_bash y vscode:
+-Git bash: (terminal) es una aplicacion de terminal que se utiliza como interface con el sistema operativo mediante comandos.
+-Visual studio code: es un entorno de desarrollo que nos va a facilitar la creacion y el desarrollo de aplicaciones.
