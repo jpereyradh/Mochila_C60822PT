@@ -1,0 +1,17 @@
+1. Es un sistema operativo de color Verde con Gris,intiutivo, simple y de facil acceso
+
+2. Es opensource.
+
+3.Los requisitos minimos del OS son:
+CPU de 700 MHz.
+1 GB de RAM.
+15 GB de espacio.
+Resolución de 1024 x 768.
+
+Mientras que en la VM son los "Basicos".
+
+4. El acceso a la terminal es via un acceso directo en la barra de tareas.
+
+5.No se pueden instalar aplicaciones ya que pide una autenticacion/contraseña que no tenemos.
+
+6.No hay juegos instalados
