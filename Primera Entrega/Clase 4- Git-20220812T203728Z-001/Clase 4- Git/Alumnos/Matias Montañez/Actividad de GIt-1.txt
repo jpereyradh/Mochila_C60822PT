@@ -1,0 +1,134 @@
+Matu@DESKTOP-MV3208L MINGW64 ~
+$ cd desktop
+
+Matu@DESKTOP-MV3208L/desktop
+$ mkdir Ecommerce
+
+Matu@DESKTOP-MV3208L ~/desktop
+$ cd Ecommerce
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce
+$ touch app.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce
+$ touch config.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce
+$ mkdir db
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce
+$ git init
+Initialized empty Git repository in C:/Users/user/Desktop/Ecommerce/.git/
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (master)
+$ git add .
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (master)
+$ git config --global init.defaultBranch main
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (master)
+$ rm -rf .git
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce
+$  git config --global init.defaultBranch main
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce
+$ git init
+Initialized empty Git repository in C:/Users/user/Desktop/Ecommerce/.git/
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ git add .
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ git commit -m "Primer Commit"
+[main (root-commit) b907f5e] Primer Commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 app.js
+ create mode 100644 config.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ cd db/
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ touch producto_db.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ touch carrito_db.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ cd ..
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ nano
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ nano app.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ git commit -m "Guardando lo importante"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ git add .
+warning: LF will be replaced by CRLF in app.js.
+The file will have its original line endings in your working directory
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ git commit -m "Guardando una aprte del proyecto"
+[main a75c854] Guardando una aprte del proyecto
+ 3 files changed, 1 insertion(+)
+ create mode 100644 db/carrito_db.js
+ create mode 100644 db/producto_db.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ cde db
+bash: cde: command not found
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce (main)
+$ cd db
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ rm producto_db.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ git restore .
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ rm ../config.js
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ git add .
+
+Matu@DESKTOP-MV3208L ~/desktop/Ecommerce/db (main)
+$ git commit -m "Sacando la configuracion"
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../config.js
+
+no changes added to commit (use "git add" and/or "git commit -a")

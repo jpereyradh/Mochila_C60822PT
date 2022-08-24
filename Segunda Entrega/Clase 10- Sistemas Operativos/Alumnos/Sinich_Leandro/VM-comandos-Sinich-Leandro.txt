@@ -1,0 +1,3 @@
+1-El comando df muestra el espacio disponible y usado en los discos disponibles.
+
+2-Ell comando topista las tareas que el ordenador se encuentra realizando en tiempo real.
