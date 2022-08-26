@@ -1,14 +1,16 @@
 Para una PSP con un disco de 6GB los juegos que se le podrían instalar 
 son:
 
-1. Driver
-2. Need For Speed Carbon
-3. Burnout Dominator
-4. MotorStorm Artic Edge
-5. Crash Tag Team Racing
-6. Plants vs Zombies
-7. Metal Slug Anthology
-8. Resident Evil 3: Nemesis
-9. PES 2013
-10. Coded Arms
-11. Street Fighter 3 Alpha Max
+1. Driver: 491.4 MB
+2. Need For Speed Carbon: 121 MB
+3. Burnout Dominator: 682 MB
+4. MotorStorm Artic Edge: 752 MB
+5. Crash Tag Team Racing: 834 MB
+6. Plants vs Zombies: 2 MB
+7. Metal Slug Anthology: 663 MB
+8. Resident Evil 3: Nemesis: 363 MB
+9. PES 2013: 975 MB
+10. Coded Arms: 49.8 MB
+11. Street Fighter 3 Alpha Max: 78.2 MB
+
+Total: 4.89 GB
