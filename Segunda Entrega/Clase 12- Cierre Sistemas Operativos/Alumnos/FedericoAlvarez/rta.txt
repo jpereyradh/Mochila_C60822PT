@@ -1,0 +1,41 @@
+En la mesa de trabajos realizamos la siguiente consigna en la máquina virtual creada: 
+● Crear un archivo en Google Documents o Word en la computadora. 
+● Investigar y contestar las siguientes preguntas. ¿Que es un usuario root en Linux? ¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?. 
+● Investigar y establecer una contraseña para el usuario root. 
+● Subir el documento de manera individual en la mochila. 
+Opcional: 
+● Escribir en la terminal el comando apt install cowsay. 
+● Escribir en la terminal el comando cowsay “ Hola mundo “. 
+● Escribir en la terminal el comando sudo apt install fortune 
+● Escribir en la terminal fortune. 
+● fortune | cowsay
+
+
+¿Que es un usuario root en Linux?
+
+Usuario root es una cuenta que tiene un control absoluto de todo lo que ocurre en un sistema, El usuario root puede hacer muchas cosas que un usuario común no puede, tales como cambiar el dueño o permisos de archivos y enlazar a puertos de numeración pequeña.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? 
+
+Ubuntu no permite establecer una contraseña durante la instalación ya que en ese momento nosotros manejamos el usuario root. Al finalizar la instalación nos pedirá que creemos nuestro usuario y le estableceremos la contraseña, para que, a la hora de instalar programas, le pidamos permiso al usuario root.
+
+
+ ¿Cuáles son los procesos típicos de Linux?
+
+1.	Obtener información sobre los procesos
+●	PS
+●	PSTREE
+●	TOP
+●	FREE
+●	UPTIME
+●	PGREP
+2.	Administrar procesos
+●	KILL
+●	PKILL
+●	KILLALL
+3.	Procesos en segundo plano
+●	El carácter &
+●	JOBS
+●	FG y BG
+●	Nohup
+
