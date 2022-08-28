@@ -1,0 +1,68 @@
+Pc gama baja intel	
+Procesador:	Intel i3 - 7100
+Placa madre:	Motherboard Gigabyte H310m M.2 2.0 Lga 1151 Intel
+Memoria principal:	2 x Memoria KingDian DDR4 4GB 2400MHz
+Memoria secundaria:	Disco Sólido SSD WD 240GB GREEN 545MB/s3
+
+Pc gama baja AMD	
+Procesador	Ryzen 3 2200 g
+Placa madre	Mother Asus Prime A320m-k Am4 Ddr4 A320 Hdmi M2
+Memoria principal	2 x Memoria KingDian DDR4 4GB 2400MHz
+Memoria secundaria	Disco Sólido SSD WD 240GB GREEN 545MB/s3
+
+Pc gama baja libre	
+Procesador	Ryzen 3 3200g
+Placa madre	Mother Asus Prime A320m-k Am4 Ddr4 A320 Hdmi M2
+Memoria principal	2 x Memoria KingDian DDR4 4GB 2400MHz
+Memoria secundaria	Disco Sólido SSD WD 512GB GREEN 545MB/s3
+
+
+Pc gama media Intel	
+Procesador	Intel Core I5-7400
+Placa madre	Gigabyte Ga-h110m-h
+Memoria principal	2 x Memoria GeiL DDR4 8GB 3000MHZ EVO POTENZA Black
+Memoria secundaria	Disco Sólido SSD WD 512GB GREEN 545MB/s3
+Gpu	GeForce GT 1030 2GD4 LP OC
+	
+	
+	
+Pc gama media amd	
+Procesador	Ryzen 5 3600
+Placa madre	A320M Asrock
+Memoria principal	2 x Memoria Patriot Viper DDR4 8GB 3200MHz Steel
+Memoria secundaria	Disco Sólido SSD WD 512GB GREEN 545MB/s3
+Gpu	Placa de Video Zotac GeForce RTX 2060 12GB GDDR6 Twin Fan
+	
+	
+	
+Pc gama media libre	
+Procesador	Procesador AMD Ryzen 5 5600 4.4GHz Turbo
+Placa madre	Mother ASUS TUF A520M-PLUS WIFI AM4
+Memoria principal	2 x Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey
+Memoria secundaria	Disco Sólido SSD M.2 ADATA 256GB XPG S11 Pro 3D5 NAND 3500MB/s NVME PCI-E X4
+Gpu	Placa de Video GALAX GeForce RTX 3060 Ti 8GB GDDR6 LHR
+
+
+
+PC Alta gama, Intel	
+Procesador	Core i7 -10700
+Placa madre	Mother ASUS ROG STRIX B460-H Gaming Socket 1200
+Memoria principal	2 x Memoria GEIL DDR4 16GB 3200Mhz EVO POTENZA Black* CL16
+Memoria secundaria	Disco Sólido SSD M.2 ADATA 256GB XPG Spectrix S40G RGB 3500MB/s NVMe PCI-E X4
+Gpu	Placa de Video ASUS GeForce RTX 3090 Ti 24GB GDDR6X TUF GAMING OC
+	
+	
+PC Alta gama, AMD	
+Procesador	Amd Ryzen 7 3800xt
+Placa madre	Mother ASUS TUF X570-PLUS GAMING WiFi AM4 PCIe 4.0 Dual M.2
+Memoria principal	Memoria Team DDR4 32GB 3600MHz T-Force Delta RGB White CL18
+Memoria secundaria	Disco Solido SSD M.2 Team 2TB Cardea Zero Z440 5000MB/s PCIe Gen4
+Gpu	Placa de Video ASUS GeForce RTX 3090 24GB GDDR6X ROG STRIX GAMING OC
+	
+	
+PC Alta Gama, Libre	
+Procesador	Procesador AMD Ryzen 7 5800X3D 4.5GHz Turbo AM4
+Placa madre	Mother ASUS TUF X570-PLUS GAMING WiFi AM4 PCIe 4.0 Dual M.2
+Memoria principal	Memoria Patriot Viper DDR4 32GB (2x16GB) 3600Mhz Steel RGB
+Memoria secundaria	Disco Solido SSD M.2 Team 2TB Cardea Zero Z440 5000MB/s PCIe Gen4
+Gpu	Placa de Video ASUS GeForce RTX 3090 24GB GDDR6X ROG STRIX GAMING OC
