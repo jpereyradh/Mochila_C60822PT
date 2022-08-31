@@ -1,0 +1,41 @@
+● ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+La ejecucion del lenguaje en Assembly es de tipo interpretado.
+La ejecucion del lenguaje en D es de tipo compilado.
+
+● ¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+El lenguaje D se utiliza para programacion de proposito general en alto nivel, mientras que el lenguaje Assembly es utilizado
+para la programacion de bajo nivel, pensado para comunicarse directamente con la computadora, pero de una forma legible para el programador.
+
+● ¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una
+librería o framework famoso del mismo.
+
+IDEs de ensambladores: Fresh IDE, WinAsm Studio, Visual Studio Code, Assembler IDE, Easy code,  RadASM
+
+
+● Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación
+matemática:
+○ x = 4
+○ y = 5
+○ z = x + y 
+
+En D languaje seria:
+
+import std.stdio;
+void main()
+{
+    int X = 4, Y = 5, Z = X + Y;
+    writeln(Z);
+}
+
+CODIGO EXTRA.
+
+import std.stdio;
+void main()
+{
+    int X = 1;
+    while (X<10){
+        writeln(X);
+        X = X+1;
+    }
+    
+}
