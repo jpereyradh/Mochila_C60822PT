@@ -1,0 +1,8 @@
+1. Porque un lenguaje de programación puede usarse en un sistema, siempre y cuando haya 
+un intérprete o compilador. Todo depende de la arquitectura del procesador y la 
+interpretación que le de el sistema operativo.
+
+2. VirtualBox es una máquina virtual de sistemas.
+
+3. No porque son computadoras completmente diferentes. Esa es la seguridad que te da 
+trabajar en una máquina virtual.
