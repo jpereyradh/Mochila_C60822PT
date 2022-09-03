@@ -1,0 +1,10 @@
+1.Por qué un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo. ese lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretacion que le de el sistema operativo. si es la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+2.Que tipo de maquina virtual es VirtualBox?
+Es una maquina virtual de sistemas.
+
+3. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? porque?
+No, porque son computadoras completamente diferentes, esa es la sefuridad que da una maquina virtual. 
+
+
