@@ -1,0 +1,8 @@
+1) Un lenguaje de programacion compila a lenguaje ensamblador el cual es ejectuado 
+por el sistema operativo, el lenguaje este depende de dos cosas:
+- La arquitectura del procesador.
+- La interpretacion que le de el sistema operativo
+Si no se cumple esto el compilador no funcionara.
+2)Virtual Box es una maquina virtual de sistemas.
+3)No, no afecta. Pq nada de lo que este adentro de una maquina virtual puede dañar o
+acceder el "afuera" de la maquina virtual.
