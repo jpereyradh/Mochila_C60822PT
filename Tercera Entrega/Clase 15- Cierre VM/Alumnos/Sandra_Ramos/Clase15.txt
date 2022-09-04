@@ -1,0 +1,21 @@
+1- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+Un lenguaje de programación es realmente una aplicacion que permite compilar un 
+texto en un código que puede ser ejecutado por el sistema operativo para el cual 
+es usado.
+
+Un compilador Visual Basic para Windows 95 posiblemente no funciona para Windows 10 
+o para un MAC, exactamente igual que el Word 2.0 para Wondows 3.1 no funciona 
+para Ubuntu.
+
+2- ¿Qué tipo de máquina virtual es virtualBox?.
+VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones 
+de sistemas operativos. Esto quiere decir que si tienes un ordenador con Windows, 
+GNU/Linux o incluso macOS, puedes crear una máquina virtual con cualquier otro sistema 
+operativo para utilizarlo dentro del que estés usando.
+
+3- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias 
+instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, 
+no afectará al funcionamiento del resto.
