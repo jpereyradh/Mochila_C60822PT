@@ -1,0 +1,13 @@
+Git init (abre repositorio local)
+git remote add origin git@github.com:minombre/archivo-git.git (enlaza el
+repositorio local con un repositorio remoto)
+git config --global user.name "nombre de usuario" (enlaza el usuario y mail de github con el repositorio local)
+git config --global user.email email@email.com
+git status (muestra el estado de los archivos en su repositorio)
+git add . (agrega todos los archivos al staging area)
+git commit -m "mensaje del commit" (confirma el snapchat del repositorio local)
+git log (muestra el historial)
+git push (los otros pushs no necesitan otras informaciones)
+git pull (actualizar los archivos contra la branch actual)
+git clone git@github.com:minombre/archivo-git.git (clona un repositorio remoto a la computadora)
+git checkout -b nuevaBranch_nombre (crea una nueva branch y apunta a ella)
