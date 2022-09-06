@@ -1,0 +1,8 @@
+¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+RTA: Un L.P puede usarse en un S.O; siguiendo la regla de la premisa de que exista un int{erprete o compilador, esto depende del lenguaje con el que se va a trabajar. Se debe tener en cuenta las caractiristicas del pc para identificar cual L.P es el que se debe usar.
+
+¿Que tipo de maquina es  virtual box ?
+RTA: Es un software de virtualización para arquitectura
+
+Si tengo más de una VM instalada, y una se rompe ¿Esto afecta a las demás?¿Por qué?
+RTA= No, debido a que cada sistema operativo emulado se encuentra en un VM, razón de que , si una VM esta siendo afectada, las otras no se tocan debido a que trabajarian como pcs independientes
