@@ -1,0 +1,13 @@
+1) Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado 
+por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura
+del procesador y la interpretacion que le de el sistema operativo.
+
+2) Oracle VM VirtualBox (conocido genrealmente como VirtualBox) es un software de 
+virtualizacion para arquitecturas x86/amd64.
+Actualmente es desarrollado por Oracle Corporation como parte de su familia de 
+productos de virtualizacion.
+
+3)  Las maquinas virtuales de procesos se ejecutan en un mismo servidor para ejercutar
+varias instancias de la misma aplicaion de forma separada. De ese modo, si una de ellas falla, 
+no afectara al funcionamiento del resto
+
