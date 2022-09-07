@@ -1,0 +1,9 @@
+Direccion IP: 186.22.56.103
+Dirección IP Privada y su Máscara de subred: 192.168.0.60 / 255.255.255.0
+Direccion MAC: B0-A7-B9-B8-D3-2A
+
+Las direcciones IP son de clase C. 
+Mi marca de placa de red es "TP-Link Corporation Limited".
+
+
+
