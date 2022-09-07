@@ -1,0 +1,16 @@
+DIRECCIONES IP y MAC
+
+-La ip pública es: 181.22.147.94
+
+-La ip privada es: 192.168.1.35
+
+-La máscara de subred es: 255.255.255.0
+
+-La direccion MAC es 8C-16-45-0C-48-D3
+
+
+-La dirección pública es de clase B, mientras que la ip privada es de clase C.
+
+-Segun la MAC adress el creador de la placa es LCFC(HeFei) Electronics Technology co., ltd.
+
+-Como proveedor de la red publica figura Latin American and Caribbean IP address Regional Registry (LACNIC).
