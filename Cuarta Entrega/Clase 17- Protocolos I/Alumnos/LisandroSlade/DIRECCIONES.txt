@@ -3,6 +3,11 @@ Dirección IP Privada y su Máscara de subred: 192.168.0.60 / 255.255.255.0
 Direccion MAC: B0-A7-B9-B8-D3-2A
 
 Las direcciones IP son de clase C. 
+La MAC nos provee la siguiente informacion: 
+ - Bit 1 (destinatarios): el primer bit de la dirección MAC indica si se trata de una dirección individual o de grupo. 
+ - Bit 2 (oficina de emisión): el segundo bit de la dirección MAC indica si es una dirección con validez global (Universal) o si la dirección fue asignada localmente (Local).
+ - Bits 3 - 24 (identificación del fabricante): los bits 3 a 24 codifican un identificador único de la organización (OUI), que es asignado exclusivamente a los fabricantes de hardware por la IEEE. 
+ - Bits 25 - 48 (identificación del adaptador de red): los bits 25 a 48 proporcionan 24 bits para que los fabricantes de dispositivos asignen un identificador de hardware único (Organizationally Unique Address, OUA). 
 Mi marca de placa de red es "TP-Link Corporation Limited".
 
 
