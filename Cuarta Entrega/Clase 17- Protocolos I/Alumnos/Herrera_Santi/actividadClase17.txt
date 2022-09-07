@@ -1,0 +1,2 @@
+La IP  publica y privada son de Clase C.
+De la direccion Mac podemos saber mediante los primeros 3 bytes (24 bits), el fabricante de la tarjeta, y mediante los últimos 3 bytes (24 bits), la tarjeta particular de ese fabricante.
