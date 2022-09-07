@@ -1,0 +1,25 @@
+﻿1. Que direcciones necesitamos averiguar :
+
+
+* Dirección IP Pública es un número único que identifica nuestra red desde el exterior (Podemos consultarla desde el CMD ejecutando “nslookup myip.opendns.com resolver1.opendns.com”).
+* Dirección IP Privada es un número único que identifica a un dispositivo conectado en nuestra red interna. La máscara de subred indica al sistema cuál es el esquema de particionamiento de subred. Esta máscara de bits está formada por la parte de la dirección de red y la parte de la dirección de subred de la dirección Internet. 
+Podemos consultar ambas desde el CMD ejecutando “ipconfig /all”.
+* Dirección MAC Es un identificador de 48bits para identificar de forma única la tarjeta de red y no depende del protocolo de conexión utilizando la red. Podemos consultar ambas desde el CMD ejecutando “ipconfig /all”, donde dice dirección física.
+
+
+
+
+
+
+2. Dadas nuestras direcciones IP y las máscaras de red, ¿ La IP pública y privada de qué clase son ?
+
+
+Son clase C porque comienzan por el octeto 192.
+        
+
+
+ 
+3. ¿Qué información puedo obtener de la dirección MAC? Vamos a acceder a https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+
+La Mac Address o dirección Mac es una identificador único de 48 bits para identificar la totalidad de dispositivos de red como por ejemplo tarjetas de red Ethernet, tarjetas de red wifi o inalámbricas, Switch de red, Routers, impresoras, etc. La dirección MAC nos provee el nombre del fabricante de nuestro hardware.
