@@ -1,0 +1,6 @@
+1. IP publica clase B
+IP privada clase C
+
+2. Marca de placa de red: Samsung
+Nos sirve para identificar al fabricante (Los primero 6) y 
+al dispositivo (Los ultimos 6).
