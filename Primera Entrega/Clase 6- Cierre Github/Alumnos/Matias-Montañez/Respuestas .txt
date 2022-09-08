@@ -1,0 +1,3 @@
+ 1 -El creador de Git fue Linus Torvalds, lo creo ya que Linux tenía un gestor de paquetes que pasó a ser de pago, por lo que el desarrollador principal de Linux decidió crear un nuevo gestor de control de versiones para su sistema, y que diera soporte a su core. De esta forma nació Git.
+ 2- El 4 de junio de 2018, Microsoft compró GitHub, la compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+ 3- Si, se puede trabajar con con GitHub mediante el uso de distintos softwares o desde la misma pagina.
