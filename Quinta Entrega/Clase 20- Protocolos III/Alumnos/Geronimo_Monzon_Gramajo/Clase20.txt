@@ -1,0 +1,31 @@
+
+VPN: 77.111.246.40
+TOR: 109.70.100.36
+
+Velocidad de internet:
+Normal: DESCARGA Mbps
+94.02
+ SUBIDA Mbps
+26.42
+Ping ms  23  58  82
+(Argentina)
+VPN: DOWNLOAD Mbps
+1.13
+ UPLOAD Mbps
+7.79
+Ping ms  205  209  214
+(Estados Unidos)
+TOR: DOWNLOAD Mbps
+7.94
+ UPLOAD Mbps
+7.17
+Ping 438  581  592
+(No se puede ver)
+
+Respuestas
+1_ No son las mismas ya  que están ubicadas en regiones distintas.
+2_No me deja verlo ya que no está disponible para mi región, con la vpn en este caso tampoco puedo.
+3_Si pudimos localizar la ip pero no la geolocalización.
+4_ Si son diferentes, es más lento ya que al estar en otra parte del mundo tarda más en llegar.
+5_El ping es una unidad de medida que sirve para medir la latencia
+6_ si también varía ya  que están ubicadas en regiones distintas.
