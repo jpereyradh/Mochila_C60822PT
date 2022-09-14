@@ -1,0 +1,9 @@
+IP VPN Opera: 77.111.246.40 y la IP se encuentra en Wichita, Estados Unidos.
+IP Opera sin VPN: 186.22.56.103
+IP con Tor activado: 185.100.87.133 y no es posible geolocalizar esta dirección IP.
+
+SpeedTest: 
+
+- Opera sin VPN: 36.50Mbps de descarga, y 24.18Mbps de subida con 21 de ping.
+- Opera con VPN: .91Mbps de descarga, y 10.24Mbps de subida con 318 de ping.
+- Tor activado: 6.52Mbps de descarga, y 3.26Mbps de subida con 620 de ping.
