@@ -1,0 +1,78 @@
+﻿Consigna Clase 14/09
+
+
+
+
+1. En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+        R) eliana 190.128.**.*** sin TOR.
+
+
+
+
+IP sin VPN y sin THOR: 190.0.xx.xxx
+
+
+2. En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+
+
+IP con VPN : 77.111.246.40
+Locación: Linkoping, E SE
+
+
+3. Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma.  
+
+
+IP con THOR: 91.244.181.85
+Locación: London, ENG GB
+
+
+4. ¿Las ip públicas son las mismas? ¿por qué?
+
+
+Las ip en los 3 casos son diferentes ya que nuestra ubicación cambia dependiendo del servicio que estemos utilizando. Cuando usamos una VPN nos redirige nuestra conexión ubicándonos desde un servidor diferente a elección del usuario y cuando usamos THOR pasa casi lo mismo que en una VPN pero el servidor se elige de forma aleatoria.
+
+
+5. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+
+No nos deja ver el video sin utilizar VPN, pero con VPN sí ya que nos ubica desde otra región del mundo la cual tiene permitida para poder ver ese video
+
+
+6. Utilizando Tor ¿pudimos localizar la IP ?
+
+
+No, porque la IP cambia en algunos minutos. 
+
+
+7. En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores. 
+
+
+De Bajada 47.62 Mbps, de Subida 48.43 Mbps y 32 Ping 
+
+
+8. En Opera con VPN activada debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+
+De Bajada 0,93 Mbps, de Subida 9.49 Mbps y 364 Ping 
+9. Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+
+De Bajada 1.24 Mbps, de Subida 1.40 Mbps y 667 Ping 
+
+
+10. ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+
+Si, porque no nos conecta desde la mejor ruta posible o más óptima sino que nos conecta desde cualquier ruta para mantener la privacidad
+
+
+11. ¿Qué significa el valor del ping?
+
+
+El ping, medido en milisegundos (o ms) mide el tiempo que tardan en comunicarse una conexión local con un equipo remoto en la red IP
+
+
+12.El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+
+El ping varia entre las diferentes opciones ya que nos establece la conexión desde servidores diferentes los cuales estan mucho mas lejanos que nuestro servidor dado por el proveedor
