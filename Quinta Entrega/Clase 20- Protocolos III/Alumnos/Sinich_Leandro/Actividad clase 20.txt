@@ -1,0 +1,43 @@
+﻿ACTIVIDAD CLASE 20
+
+
+¿Las IP públicas son las mismas? ¿Por qué?
+No, porque el uso de la VPN oculta nuestra IP pública. 
+
+
+¿Sin utilizar la VPN puedes ver el video? No se puede visualizar el video.
+Activando la VPN ¿Qué es lo que sucedió? ¿Por qué? Con la VPN activa se puede ver el video. Porque el video tiene derechos reservados, y por esa razón no se puede visualizar desde la ubicación desde donde estamos, por medio de la VPN que nos ubica la IP en otro país nos permite reproducir el video.
+
+
+Utilizando Tor ¿pudimos localizar IP? 
+No se puede visualizar la ubicación de la IP.
+
+
+Test de Velocidad en Opera sin VPN: 
+* Descarga: 9,61Mbps
+* Subida: 8,76Mbps
+* Ping: 13
+
+
+Test de Velocidad en Opera con VPN:
+* Descarga; 1,55Mbps
+* Subida: 8,25Mbps
+* Ping: 166
+
+
+Test de Velocidad con Tor:
+* Descarga: 0,81Mbps
+* Subida: 1,81Mbps
+* Ping: 870
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si son diferentes, porque la velocidad con la VPN depende de la ubicación del servidor y puede estar en cualquier parte del mundo, por lo tanto la velocidad de conexión es menor.
+
+
+¿Qué significa el valor del ping?
+Es el tiempo de respuesta en que se comunican dos equipos.
+
+
+¿El valor del ping varía entre las diferentes opciones? ¿Por qué?
+Si varía, porque depende de la cantidad de saltos que haga la conexión para comunicarse con otro dispositivo.
