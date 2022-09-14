@@ -1,0 +1,15 @@
+1 Mi ip es 190.93.57.209
+2 La ip con el VPN de Opera es 77.111.246.40 y esta en EEUU
+3 La IP con tor es 95.214.54.101 y la geolocalizacion quedo en blanco (no funciona)
+4 las ip publicas no son las mismas por que con la vpn simulamos estar en otra ubicacion con otra ip
+5 Sin utilizar vpn no pude ver el video, recien al activar la vpn simulando estar en EE UU pude acceder al video.
+6 No, utilizando tor no pudimos localizarla.
+
+
+7 en opera sin vpn tengo 20mb de descarga y 5mb de subida el ping era de 15ms
+8 en opera con vpn tengo 1mb de descarga y 4,5 de subida el ping era de 350ms
+9 en tor no pude medir mi velocidad
+
+10 si, eran diferentes por que al activar el vpn tiene mas intermediarios entre los que viajar los paquetes.
+11 es el tiempo de respuesta entre que enviamos un paquete y recibimos la respuesta.
+12 si, varia por lo mismo que la velocidad de internet, al haber mas intermediarios tiene una consecuencia directa en su tiempo de respuesta.
