@@ -1,0 +1,22 @@
+Abri en Edge para buscar mi ip sin vpn me dio: 200.115.239.66
+Hice lo mismo en opera con la VPN activada y me dio: 77.111.246.40
+En tor me dio: 185.220.100.242
+
+La geolocalizacion:
+ en TOR no me devolvio ningun pais
+ en opera VPN dice que estoy en USA.
+ en Edge me dice que estoy en ARG.
+
+No, las ip publicas no son las mismas asi nadie (ademas de la vpn) sabe de donde estas
+conectandote.
+
+No, sin una vpn no puedo ver el video ya que el video no esta disponible para argentina.
+
+
+Con TOR si pude ver cual es la ip pero no pude geolocalizar donde esta (traduciendo los ads
+en google translate es algun lugar que se habla aleman)
+
+Si las velociades de internet son distintas, pq la distancia que recorren los paquetes no 
+son las mismas, una es de usa otra desde arg y una en alemania (se sospecha).
+
+El ping se mide en MS y es el tiempo que le toma el paquete a llegar a destino.
