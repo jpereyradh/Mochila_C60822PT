@@ -1,0 +1,8 @@
+Privada 192.168.0.182
+subred 255.255.255.0
+MAC B4-2E-99-64-83-77
+Ip Publica 186.152.229.64
+
+1-Las IP son de clase C.
+2-Los primeros 3 bytes (24 bits) representan el fabricante de la tarjeta, y los últimos 3 bytes (24 bits) identifican la tarjeta particular de ese fabricante.
+Mi placa de red es GIGA-BYTE TECHNOLOGY CO.,LTD
