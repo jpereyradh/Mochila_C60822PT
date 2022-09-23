@@ -1,7 +1,0 @@
-¿ La IP pública y privada de qué clase son ? 
-Mi ip publica es clase B y mi ip privada es clase C
-
-¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a
-https://macvendors.com/ y verificar que marca de placa de red tenemos.
-
-Podemos saber la marca del fabricante.
