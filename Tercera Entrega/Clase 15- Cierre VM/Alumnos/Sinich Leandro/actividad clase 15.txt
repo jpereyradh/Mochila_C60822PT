@@ -1,0 +1,6 @@
+1.Esto sucede cuando se trata de un lenguaje de programación compilador, ya que dicha tarea se hace para un sistema operativo en particular.
+
+2.Virtualbox es una máquina virtual de sistemas, ya que permite virtualizar distintos sistemas operativos.
+
+3.Si una de las maquinas virtuales se rompe no afecta para nada al resto de maquinas, ya que son independientes una de otra.
+Esta es una de las grandes ventajas de utilizar maquinas virtualizadas.
