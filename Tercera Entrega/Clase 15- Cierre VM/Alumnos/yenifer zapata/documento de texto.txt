@@ -7,4 +7,7 @@ VirtualBox es una aplicación que sirve para hacer máquinas virtuales con insta
 
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a lasdemás? ¿por qué?
 
-no  afecta  ya que las dos tienen dos sistemas operativos diferentes .
+no  afecta  ya que las dos tienen dos sistemas operativos diferentes .  
+
+
+.
