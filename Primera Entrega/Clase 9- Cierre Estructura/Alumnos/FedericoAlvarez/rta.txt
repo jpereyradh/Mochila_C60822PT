@@ -1,0 +1,112 @@
+Gama Baja Intel:
+-Procesador: Core i3 7100
+-Placa madre: Motherboard Asus (1151 V.2) Prime B365m-a01~
+-Memoria principal: 8gb Ram DDR4 1600Mhz
+-Memoria secundaria: 500gb disco rigido
+
+Gama baja AMD:
+-Procesador: Ryzen 3 2200g
+-Placa madre: Mother Asus Prime A320m-k Am4
+-Memoria ram: 8gb ram ddr4 1600MHz
+-Memoria secundaria: 500gb disco rigido
+
+gama baja:
+-Procesador: i3 6100
+-Placa madre: Motherboard Compaq 21n213aMother Gigabyte H310m
+-Memoria ram: 8gb DDR4 1600MHz
+-Memoria secundaria: 500gb disco rigido
+
+Gama media Intel:
+-Procesador: Intel Core i5-10500
+-Placa madre: Motherboard ASRock B460M Pro4 Micro ATX LGA1200
+-Memoria principal: 8gb ddr4 2666 Mhz
+-Memoria secundaria: 256 gb sólido sata + 1Tb rígido
+-GPU: Geforce GT 1030 2gd4 lp oc
+
+Gama media - AMD
+-Procesador: Micro AMD Ryzen 5 4600G 4.2Ghz AM4
+-Placa madre: A320 M Asrock
+-Memoria principal: 16 gb ddr4 2666 Mhz
+-Memoria secundaria: 256 gb sólido sata + 1Tb rígido
+-GPU: GTX 1050-Ti
+
+gama media
+-Procesador: AMD Ryzen 5 3600
+-Placa madre: Gigabyte B450 AORUS PRO
+-Memoria principal: 16 gb ddr4 2666 Mhz
+-Memoria secundaria: 256 gb sólido sata + 1Tb rígido
+-Gpu: RTX 1060
+
+Gama alta - Intel
+-Procesador: Core i7-10700
+-Placa madre: Mother Asrock B560m Steel Legend
+-Memoria principal: 32 gb 3200 Mhz
+-Memoria secundaria: 1 tb solido m2 + 1 tb rigido
+-Gpu: NVIDIA GeForce RTX 3090 24GB
+
+Gama alta - AMD
+-Procesador: amd ryzen 7 3800xt
+-Placa madre: Motherboard Gigabyte B550 Aorus Elite V2 Am4
+-Memoria principal: 32 gb 3200 Mhz
+-Memoria secundaria: 1 tb solido m2 + 1 tb rigido
+-Gpu: NVIDIA GeForce RTX 3090 24GB
+
+gama alta
+-Procesador: Procesador Intel Core i7 12700K 5.0GHz Turbo Socket 1700
+-Placa madre: Mother GIGABYTE B660M DS3H AX DDR4 S1700
+-Memoria principal: 32 gb 3200 Mhz
+-Memoria secundaria: 1 tb solido m2 + 1 tb rigido
+-Gpu: NVIDIA GeForce RTX 3090 24GBGama Baja Intel:
+-Procesador: Core i3 7100
+-Placa madre: Motherboard Asus (1151 V.2) Prime B365m-a01~
+-Memoria principal: 8gb Ram DDR4 1600Mhz
+-Memoria secundaria: 500gb disco rigido
+
+Gama baja AMD:
+-Procesador: Ryzen 3 2200g
+-Placa madre: Mother Asus Prime A320m-k Am4
+-Memoria ram: 8gb ram ddr4 1600MHz
+-Memoria secundaria: 500gb disco rigido
+
+gama baja:
+-Procesador: i3 6100
+-Placa madre: Motherboard Compaq 21n213aMother Gigabyte H310m
+-Memoria ram: 8gb DDR4 1600MHz
+-Memoria secundaria: 500gb disco rigido
+
+Gama media Intel:
+-Procesador: Intel Core i5-10500
+-Placa madre: Motherboard ASRock B460M Pro4 Micro ATX LGA1200
+-Memoria principal: 8gb ddr4 2666 Mhz
+-Memoria secundaria: 256 gb sólido sata + 1Tb rígido
+-GPU: Geforce GT 1030 2gd4 lp oc
+
+Gama media - AMD
+-Procesador: Micro AMD Ryzen 5 4600G 4.2Ghz AM4
+-Placa madre: A320 M Asrock
+-Memoria principal: 16 gb ddr4 2666 Mhz
+-Memoria secundaria: 256 gb sólido sata + 1Tb rígido
+-GPU: GTX 1050-Ti
+
+gama media
+-Procesador: AMD Ryzen 5 3600
+-Placa madre: Gigabyte B450 AORUS PRO
+-Memoria principal: 16 gb ddr4 2666 Mhz
+-Memoria secundaria: 256 gb sólido sata + 1Tb rígido
+-Gpu: RTX 1060
+
+Gama alta - Intel
+-Procesador: Core i7-10700
+-Placa madre: Mother Asrock B560m Steel Legend
+-Memoria principal: 32 gb 3200 Mhz
+-Memoria secundaria: 1 tb solido m2 + 1 tb rigido
+-Gpu: NVIDIA GeForce RTX 3090 24GB
+
+Gama alta - AMD
+-Procesador: amd ryzen 7 3800xt
+-Placa madre: Motherboard Gigabyte B550 Aorus Elite V2 Am4
+-Memoria principal: 32 gb 3200 Mhz
+-Memoria secundaria: 1 tb solido m2 + 1 tb rigido
+-Gpu: NVIDIA GeForce RTX 3090 24GB
+
+
