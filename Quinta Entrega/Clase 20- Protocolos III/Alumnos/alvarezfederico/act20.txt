@@ -1,0 +1,50 @@
+Actividad Clase 20
+
+Tareas a Realizar:
+●	En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+181.92.107.194 Ubicación Venado Tuerto
+             181.62.27.20 guille ubicacion Manizales colombia
+
+
+●	En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+77.111.247.13 Ubicación cerca de suiza
+
+●	Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma.
+199.249.230.159 No se visualiza ubicación.
+            5.255.97.134  No se ubica localizacion Guille
+
+Preguntas Realizar en mesa:
+●	¿Las ip públicas son las mismas? ¿por qué? 
+No, debido a que la VPN se conecta desde otros países y con el Browser de TOR realiza la misma función que la VPN pero con anonimato.
+
+●	Sin utilizar la VPN puedes ver el siguiente video? ( https://www.youtube.com/watch?v=6_kh4RsBjbI ) El browser arroja El video no está disponible.
+Ahora activala e intenta verlo, ¿Qué es lo que sucedió? ¿Por qué? Con la VPN activada se puede ver perfectamente el video por qué Youtube registra que nos encontramos en Europa
+Utilizando Tor ¿pudimos localizar la IP ? No.
+
+Tareas a Realizar 2: 
+●	En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores. 
+Subida: 93 Mbps
+Bajada: 91 Mbps
+Ping: 4
+●	En Opera con VPN activada debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+Subida: 7 Mbps
+Bajada: 9 Mbps
+Ping: 238
+
+●	Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+Subida: 1.83 Mbps
+Bajada:  1.90 Mbps
+Ping: 410
+
+
+Preguntas Realizar en mesa 2: 
+●	¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto? 
+La velocidad fluctúa debido a el cambio de ubicación mediante el uso de la VPN.
+
+En cuanto a TOR no solo se pierde banda ancha cambiando de ubicación sino que también estamos formando parte de la red TOR, en donde nuestro internet está siendo usado para enviar paquetes de otros computadores.
+
+●	¿Qué significa el valor del ping? El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+		
+El ping es el tiempo que tarda en enviarse un paquete dentro de la red calculado en milisegundos.
+Si varía, por el mismo motivo por el que varían los mb que nos llegan de subida y bajada.
+
